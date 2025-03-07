@@ -1,0 +1,40 @@
+.card:hover{
+        color: yellow;
+        background-color: violet;
+}
+.service-type .service-category{
+    float: left;
+    list-style: none;
+    list-style-position: initial;
+    list-style-position: initial;
+    list-style-type: none;
+    padding:  0 15px 30px 15px;
+    overflow-x: hidden;
+}
+li{
+    display: list-item;
+}
+a{
+    text-decoration: none;
+}
+/* .gradientBackground {
+    
+    background: linear-gradient(90deg, #07e1fd, #810dce);
+    height: 100vh;
+    width: 100vw;                                               //GREDIENT BACKGROUND colour
+  }
+#gradientBackground1 {
+    padding-top: 10px;
+    background: linear-gradient(90deg, #07e1fd, #810dce);
+    height: 100vh;
+    width: 100vw;
+  } */
+
+#carousalImg{
+    /* text-align: right; */
+    /* margin-left: 200px; */
+    padding-bottom: 50px;
+}
+.carousalStyle{
+    padding-top:  5%;
+}

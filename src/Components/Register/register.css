@@ -1,0 +1,67 @@
+.register-ba{
+    background-image: url("https://moitech.in/img/registerbanner.jpg");
+    background-repeat: no-repeat;
+    background-image: fixed;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: 'Open Sans';
+    font-size: 14px;
+    line-height: 24px;
+    color: #888888;
+    font-weight: normal;
+    /* text-align: center; */
+    /* box-sizing: border-box; */
+    border: 0;
+    /* vertical-align: middle; */
+    max-width: 100%;
+    display: none;
+}
+.register{
+    /* background-color: rgb(73, 122, 122); */
+    padding: 15%;
+}
+.text{
+    /* font-size: 48px;
+    position: absolute;
+    left: 20px;
+    /* bottom: 125px; */
+    /* top: 250px;
+    color: #ffffff;
+    width: 54%;
+    font-weight: 300;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5); */ 
+}
+.registerform{
+    display: flex;
+    position: absolute;
+    top: 250px;
+}
+.row{
+    display: flex;
+}
+.inputt{
+    /* margin-bottom: 20px; */
+    padding: 10px;
+}
+.Logform {
+    padding: 25px;
+    padding-top: 10px;
+    background: rgba(255, 255, 255, 0.29);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.1px);
+    -webkit-backdrop-filter: blur(3.1px);
+  }
+  .mb-3{
+      background: transparent;
+  }
+  #formInput{
+      background: transparent;
+  }
+  #formButtons{
+      /* background: linear-gradient(rgb(7, 107, 20), rgb(119, 6, 119));     */
+      background: none;
+  }
+  #formButtons:hover{
+      color: blueviolet;
+  }

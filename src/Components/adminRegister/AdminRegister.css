@@ -1,0 +1,29 @@
+#blur {
+    background: rgba(255, 255, 255, 0.29);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.1px);
+    -webkit-backdrop-filter: blur(3.1px);
+  }
+  .Logform {
+    padding: 25px;
+    padding-top: 10px;
+    background: rgba(255, 255, 255, 0.29);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.1px);
+    -webkit-backdrop-filter: blur(3.1px);
+  }
+  .mb-3{
+      background: transparent;
+  }
+  #formInput{
+      background: transparent;
+  }
+  #formButtons{
+      /* background: linear-gradient(rgb(7, 107, 20), rgb(119, 6, 119));     */
+      background: none;
+  }
+  #formButtons:hover{
+      color: blueviolet;
+  }

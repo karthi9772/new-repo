@@ -1,0 +1,90 @@
+{
+  "admin": [
+    {
+      "id": "b54a",
+      "Name": "fsd",
+      "Mobile": "1234567890",
+      "Password": "123456789",
+      "ConfPassword": "123456789",
+      "Email": "dfs@gmail.com"
+    }
+  ],
+  "user": [
+    {
+      "id": "b54a",
+      "Name": "fsd",
+      "Mobile": "1234567890",
+      "Password": "123456789",
+      "ConfPassword": "123456789",
+      "Email": "dfs@gmail.com"
+    },
+    {
+      "id": "a389",
+      "Name": "VJAN SOFTWARE",
+      "Mobile": "1234567890",
+      "Password": "webdeveloper",
+      "ConfPassword": "webdeveloper",
+      "Email": "vjan@software.com"
+    },
+    {
+      "id": "7c0f",
+      "Name": "hari ",
+      "Mobile": "1234567890",
+      "Password": "123456789",
+      "ConfPassword": "123456789",
+      "Email": "dfs@gmail.com"
+    },
+    {
+      "id": "b8d8",
+      "Name": "Velkani",
+      "Mobile": "1234567890",
+      "Password": "123456789",
+      "ConfPassword": "123456789",
+      "Email": "Velkani@gmail.com"
+    },
+    {
+      "id": "e786",
+      "Name": "Velkani",
+      "Mobile": "0123456789",
+      "Password": "12345678",
+      "ConfPassword": "12345678",
+      "Email": "Velkani@gmail.com"
+    },
+    {
+      "id": "aee8",
+      "Name": "Register",
+      "Mobile": "3698521470",
+      "Password": "123123123",
+      "ConfPassword": "123123123",
+      "Email": "email@gmail.com"
+    },
+    {
+      "id": "f57b",
+      "Name": "Register",
+      "Mobile": "3698521470",
+      "Password": "123456789",
+      "ConfPassword": "123456789",
+      "Email": "email@gmail.com"
+    },
+    {
+      "id": "756e",
+      "Name": "Velkani",
+      "Mobile": "8412345678",
+      "Password": "123456789",
+      "ConfPassword": "123456789",
+      "Email": "Velkani@gmail.com"
+    },
+    {
+      "id": "22e9",
+      "Name": "karthi",
+      "Mobile": "1236547890",
+      "Password": "helloworld",
+      "ConfPassword": "helloworld",
+      "Email": "Karthi@gmail.com"
+    }
+  ]
+}
+
+
+
+

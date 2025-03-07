@@ -1,0 +1,27 @@
+/* .hovr{
+    color: black;
+} */
+.hovr:hover {
+  color: rgb(17, 189, 241);
+}
+/* #gradientBackground1 {
+  background: linear-gradient(90deg, #d866b6, #fcfffb);
+  height: 100vh;
+  width: 100vw;
+} */
+/* header.css */
+
+.dropDownToggle {
+  animation: fadeIn 0.3s ease-out;
+  /* animation-play-state: running; */
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    
+  }
+  100% {
+    opacity: 1;
+  }
+}
